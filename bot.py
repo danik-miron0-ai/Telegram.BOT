@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-BOT_TOKEN = "8663639021:AAG67fmy_7TMa5jNrsB4UsgbaIV2Fb7BC_0"
+BOT_TOKEN = "8007635004:AAGLno40IsPoAR8tiUfiXhPwAf15UGria_0"
 GETCOURSE_KEY = "FjqP3bEpvsFB9xk53DcF4UJ9GA4TWG8VOpdKHWwezcVHBQm1ABDsB4s55mMQa0HSnXHsZfbA1bjT7yFm8ab3ZSlfM5zKmxI4uDqGI72mydAboqp9M6P6HcHyfGFFjgos"
 GETCOURSE_DOMAIN = "https://chinabusinessacademy.getcourse.ru"
 
