@@ -21,9 +21,8 @@ def handle_text(message):
         f"{GETCOURSE_DOMAIN}/pl/api/users/update",
         data={
             "key": GETCOURSE_KEY,
-            "user": {
-                "email": email,
-                "telegram_id": telegram_id
+            "user[email]": email,
+            "user[telegram_id]": telegram_id
             }
         }
     )
