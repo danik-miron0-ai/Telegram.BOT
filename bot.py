@@ -28,4 +28,4 @@ def handle_text(message):
 
     bot.send_message(telegram_id, "Готово! Ты привязан.")
 
-bot.polling(none_stop=True)
+bot.infinity_polling()
