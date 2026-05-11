@@ -23,7 +23,6 @@ def handle_text(message):
             "key": GETCOURSE_KEY,
             "user[email]": email,
             "user[telegram_id]": telegram_id
-            }
         }
     )
 
